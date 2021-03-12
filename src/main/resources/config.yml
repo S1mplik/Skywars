@@ -1,0 +1,9 @@
+single-server-mode: false
+
+max-games: -1
+
+lobby-point:
+  x: 0
+  y: 64
+  z: 0
+  world: "world"

@@ -1,0 +1,7 @@
+name: Skywars
+version: ${project.version}
+main: danix25.skywars.Skywars
+api-version: 1.12.2
+commands:
+  skywars:
+    aliases: [sky, game]
