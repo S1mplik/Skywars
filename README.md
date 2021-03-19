@@ -5,9 +5,9 @@ Commands:
 I put a next command on new update.
 
 
-#Download
+Download
 
-#Windows:
+Windows:
 
 Download file on spigot: https://www.spigotmc.org/resources/skywarsevent-1-8-x-1-12-x.90159/
 Move to /plugin folder and reload (/reload) or restart server
